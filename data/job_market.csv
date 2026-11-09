@@ -1,0 +1,221 @@
+field,career,year,openings_index,avg_salary
+Computer Science,Data Analyst,2021,70,68000
+Computer Science,Data Analyst,2022,76,72000
+Computer Science,Data Analyst,2023,82,75000
+Computer Science,Data Analyst,2024,86,77000
+Computer Science,Data Analyst,2025,88,78000
+Computer Science,Data Scientist,2021,60,112000
+Computer Science,Data Scientist,2022,64,118000
+Computer Science,Data Scientist,2023,68,122000
+Computer Science,Data Scientist,2024,72,124000
+Computer Science,Data Scientist,2025,74,126000
+Computer Science,Data Engineer,2021,58,110000
+Computer Science,Data Engineer,2022,64,116000
+Computer Science,Data Engineer,2023,70,122000
+Computer Science,Data Engineer,2024,75,125000
+Computer Science,Data Engineer,2025,79,128000
+Computer Science,AI Engineer,2021,42,118000
+Computer Science,AI Engineer,2022,52,128000
+Computer Science,AI Engineer,2023,64,136000
+Computer Science,AI Engineer,2024,74,142000
+Computer Science,AI Engineer,2025,81,145000
+Computer Science,Software Engineer,2021,92,108000
+Computer Science,Software Engineer,2022,98,114000
+Computer Science,Software Engineer,2023,90,116000
+Computer Science,Software Engineer,2024,93,118000
+Computer Science,Software Engineer,2025,95,120000
+Computer Science,Cybersecurity Analyst,2021,68,90000
+Computer Science,Cybersecurity Analyst,2022,73,94000
+Computer Science,Cybersecurity Analyst,2023,78,98000
+Computer Science,Cybersecurity Analyst,2024,83,100000
+Computer Science,Cybersecurity Analyst,2025,86,102000
+Computer Science,Machine Learning Engineer,2021,48,125000
+Computer Science,Machine Learning Engineer,2022,54,132000
+Computer Science,Machine Learning Engineer,2023,60,138000
+Computer Science,Machine Learning Engineer,2024,66,144000
+Computer Science,Machine Learning Engineer,2025,70,148000
+Aerospace,Aerospace Engineer,2021,55,108000
+Aerospace,Aerospace Engineer,2022,56,110000
+Aerospace,Aerospace Engineer,2023,58,113000
+Aerospace,Aerospace Engineer,2024,60,116000
+Aerospace,Aerospace Engineer,2025,61,118000
+Aerospace,Avionics Engineer,2021,48,102000
+Aerospace,Avionics Engineer,2022,50,104000
+Aerospace,Avionics Engineer,2023,51,107000
+Aerospace,Avionics Engineer,2024,53,110000
+Aerospace,Avionics Engineer,2025,54,112000
+Aerospace,Flight Test Engineer,2021,38,98000
+Aerospace,Flight Test Engineer,2022,39,100000
+Aerospace,Flight Test Engineer,2023,40,103000
+Aerospace,Flight Test Engineer,2024,41,106000
+Aerospace,Flight Test Engineer,2025,42,108000
+Aerospace,Propulsion Engineer,2021,42,110000
+Aerospace,Propulsion Engineer,2022,44,113000
+Aerospace,Propulsion Engineer,2023,45,116000
+Aerospace,Propulsion Engineer,2024,47,119000
+Aerospace,Propulsion Engineer,2025,48,122000
+Aerospace,Mission Operations Analyst,2021,32,84000
+Aerospace,Mission Operations Analyst,2022,34,87000
+Aerospace,Mission Operations Analyst,2023,36,90000
+Aerospace,Mission Operations Analyst,2024,38,93000
+Aerospace,Mission Operations Analyst,2025,39,95000
+Business,Business Analyst,2021,68,76000
+Business,Business Analyst,2022,70,79000
+Business,Business Analyst,2023,73,81000
+Business,Business Analyst,2024,75,83000
+Business,Business Analyst,2025,77,85000
+Business,Product Manager,2021,55,122000
+Business,Product Manager,2022,60,128000
+Business,Product Manager,2023,63,132000
+Business,Product Manager,2024,66,135000
+Business,Product Manager,2025,68,138000
+Business,Management Consultant,2021,52,98000
+Business,Management Consultant,2022,54,102000
+Business,Management Consultant,2023,56,105000
+Business,Management Consultant,2024,58,108000
+Business,Management Consultant,2025,60,110000
+Healthcare,Health Data Analyst,2021,52,70000
+Healthcare,Health Data Analyst,2022,58,74000
+Healthcare,Health Data Analyst,2023,64,77000
+Healthcare,Health Data Analyst,2024,69,80000
+Healthcare,Health Data Analyst,2025,72,82000
+Healthcare,Bioinformatics Analyst,2021,36,88000
+Healthcare,Bioinformatics Analyst,2022,38,91000
+Healthcare,Bioinformatics Analyst,2023,40,94000
+Healthcare,Bioinformatics Analyst,2024,42,96000
+Healthcare,Bioinformatics Analyst,2025,44,98000
+Healthcare,Clinical Informaticist,2021,33,94000
+Healthcare,Clinical Informaticist,2022,35,97000
+Healthcare,Clinical Informaticist,2023,37,100000
+Healthcare,Clinical Informaticist,2024,39,103000
+Healthcare,Clinical Informaticist,2025,40,105000
+Mechanical Engineering,Mechanical Engineer,2021,68,86000
+Mechanical Engineering,Mechanical Engineer,2022,69,88000
+Mechanical Engineering,Mechanical Engineer,2023,71,91000
+Mechanical Engineering,Mechanical Engineer,2024,72,93000
+Mechanical Engineering,Mechanical Engineer,2025,73,95000
+Mechanical Engineering,Robotics Engineer,2021,42,100000
+Mechanical Engineering,Robotics Engineer,2022,46,105000
+Mechanical Engineering,Robotics Engineer,2023,50,110000
+Mechanical Engineering,Robotics Engineer,2024,54,114000
+Mechanical Engineering,Robotics Engineer,2025,58,118000
+Mechanical Engineering,CAD Design Engineer,2021,60,70000
+Mechanical Engineering,CAD Design Engineer,2022,61,72000
+Mechanical Engineering,CAD Design Engineer,2023,63,74000
+Mechanical Engineering,CAD Design Engineer,2024,64,76000
+Mechanical Engineering,CAD Design Engineer,2025,65,78000
+Design & Creative,UX Designer,2021,58,82000
+Design & Creative,UX Designer,2022,62,86000
+Design & Creative,UX Designer,2023,60,88000
+Design & Creative,UX Designer,2024,64,90000
+Design & Creative,UX Designer,2025,66,92000
+Design & Creative,Product Designer,2021,44,96000
+Design & Creative,Product Designer,2022,47,100000
+Design & Creative,Product Designer,2023,49,103000
+Design & Creative,Product Designer,2024,51,106000
+Design & Creative,Product Designer,2025,52,108000
+Finance,Financial Analyst,2021,64,78000
+Finance,Financial Analyst,2022,65,80000
+Finance,Financial Analyst,2023,67,82000
+Finance,Financial Analyst,2024,69,84000
+Finance,Financial Analyst,2025,70,86000
+Finance,Quantitative Analyst,2021,30,140000
+Finance,Quantitative Analyst,2022,31,144000
+Finance,Quantitative Analyst,2023,33,148000
+Finance,Quantitative Analyst,2024,35,152000
+Finance,Quantitative Analyst,2025,36,155000
+Finance,Data Analyst (Finance),2021,52,78000
+Finance,Data Analyst (Finance),2022,57,82000
+Finance,Data Analyst (Finance),2023,62,85000
+Finance,Data Analyst (Finance),2024,66,88000
+Finance,Data Analyst (Finance),2025,69,90000
+Mathematics & Statistics,Statistician,2021,42,85000
+Mathematics & Statistics,Statistician,2022,45,89000
+Mathematics & Statistics,Statistician,2023,48,93000
+Mathematics & Statistics,Statistician,2024,52,96000
+Mathematics & Statistics,Statistician,2025,55,98000
+Mathematics & Statistics,Operations Research Analyst,2021,45,78000
+Mathematics & Statistics,Operations Research Analyst,2022,49,82000
+Mathematics & Statistics,Operations Research Analyst,2023,53,85000
+Mathematics & Statistics,Operations Research Analyst,2024,58,89000
+Mathematics & Statistics,Operations Research Analyst,2025,62,91000
+Mathematics & Statistics,Actuarial Analyst,2021,38,90000
+Mathematics & Statistics,Actuarial Analyst,2022,41,94000
+Mathematics & Statistics,Actuarial Analyst,2023,44,98000
+Mathematics & Statistics,Actuarial Analyst,2024,47,102000
+Mathematics & Statistics,Actuarial Analyst,2025,49,105000
+Information Technology,IT Support Specialist,2021,88,55000
+Information Technology,IT Support Specialist,2022,86,57000
+Information Technology,IT Support Specialist,2023,85,59000
+Information Technology,IT Support Specialist,2024,84,61000
+Information Technology,IT Support Specialist,2025,83,62000
+Information Technology,Network Engineer,2021,55,92000
+Information Technology,Network Engineer,2022,57,96000
+Information Technology,Network Engineer,2023,60,99000
+Information Technology,Network Engineer,2024,63,102000
+Information Technology,Network Engineer,2025,66,105000
+Information Technology,Cloud Engineer,2021,48,108000
+Information Technology,Cloud Engineer,2022,55,114000
+Information Technology,Cloud Engineer,2023,63,120000
+Information Technology,Cloud Engineer,2024,71,127000
+Information Technology,Cloud Engineer,2025,78,132000
+Environmental Science,Environmental Scientist,2021,43,74000
+Environmental Science,Environmental Scientist,2022,45,76000
+Environmental Science,Environmental Scientist,2023,47,78000
+Environmental Science,Environmental Scientist,2024,49,80000
+Environmental Science,Environmental Scientist,2025,51,82000
+Environmental Science,GIS Analyst,2021,42,68000
+Environmental Science,GIS Analyst,2022,46,71000
+Environmental Science,GIS Analyst,2023,49,74000
+Environmental Science,GIS Analyst,2024,54,77000
+Environmental Science,GIS Analyst,2025,58,79000
+Environmental Science,Sustainability Analyst,2021,38,70000
+Environmental Science,Sustainability Analyst,2022,42,74000
+Environmental Science,Sustainability Analyst,2023,46,78000
+Environmental Science,Sustainability Analyst,2024,51,82000
+Environmental Science,Sustainability Analyst,2025,56,85000
+Civil Engineering,Civil Engineer,2021,69,88000
+Civil Engineering,Civil Engineer,2022,70,91000
+Civil Engineering,Civil Engineer,2023,71,94000
+Civil Engineering,Civil Engineer,2024,73,97000
+Civil Engineering,Civil Engineer,2025,75,99000
+Civil Engineering,Structural Engineer,2021,52,94000
+Civil Engineering,Structural Engineer,2022,53,97000
+Civil Engineering,Structural Engineer,2023,54,100000
+Civil Engineering,Structural Engineer,2024,56,103000
+Civil Engineering,Structural Engineer,2025,57,105000
+Civil Engineering,Transportation Engineer,2021,50,90000
+Civil Engineering,Transportation Engineer,2022,52,93000
+Civil Engineering,Transportation Engineer,2023,55,96000
+Civil Engineering,Transportation Engineer,2024,58,99000
+Civil Engineering,Transportation Engineer,2025,61,101000
+Marketing,Market Research Analyst,2021,57,70000
+Marketing,Market Research Analyst,2022,60,72000
+Marketing,Market Research Analyst,2023,62,74000
+Marketing,Market Research Analyst,2024,65,77000
+Marketing,Market Research Analyst,2025,68,79000
+Marketing,Digital Marketing Analyst,2021,52,70000
+Marketing,Digital Marketing Analyst,2022,57,73000
+Marketing,Digital Marketing Analyst,2023,61,76000
+Marketing,Digital Marketing Analyst,2024,66,79000
+Marketing,Digital Marketing Analyst,2025,71,82000
+Marketing,Marketing Manager,2021,53,143000
+Marketing,Marketing Manager,2022,54,147000
+Marketing,Marketing Manager,2023,55,150000
+Marketing,Marketing Manager,2024,57,153000
+Marketing,Marketing Manager,2025,59,156000
+Education,Instructional Designer,2021,43,80000
+Education,Instructional Designer,2022,45,82000
+Education,Instructional Designer,2023,47,84000
+Education,Instructional Designer,2024,50,87000
+Education,Instructional Designer,2025,52,89000
+Education,Learning Analyst,2021,32,68000
+Education,Learning Analyst,2022,35,71000
+Education,Learning Analyst,2023,39,74000
+Education,Learning Analyst,2024,43,78000
+Education,Learning Analyst,2025,47,81000
+Education,Education Program Coordinator,2021,59,64000
+Education,Education Program Coordinator,2022,60,65000
+Education,Education Program Coordinator,2023,61,66000
+Education,Education Program Coordinator,2024,63,68000
+Education,Education Program Coordinator,2025,64,69000

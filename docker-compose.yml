@@ -1,0 +1,20 @@
+services:
+  db:
+    image: postgres:16
+    container_name: northstar-postgres
+    environment:
+      POSTGRES_USER: northstar
+      POSTGRES_PASSWORD: northstar
+      POSTGRES_DB: northstar
+    ports:
+      - "5432:5432"
+    volumes:
+      - northstar_pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U northstar -d northstar"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  northstar_pg:

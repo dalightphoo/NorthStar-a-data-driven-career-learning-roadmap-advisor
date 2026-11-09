@@ -1,0 +1,238 @@
+career,skill,category,importance,hours_to_learn,sort_order
+Data Analyst,Excel & spreadsheets,Foundations,5,25.0,1
+Data Analyst,SQL,Foundations,5,40.0,2
+Data Analyst,Data cleaning,Foundations,5,20.0,3
+Data Analyst,Statistics for analysis,Analysis,5,35.0,4
+Data Analyst,Python (Pandas),Analysis,5,45.0,5
+Data Analyst,Data visualization,Storytelling,5,30.0,6
+Data Analyst,Business communication,Storytelling,4,15.0,7
+Data Analyst,Dashboarding,Storytelling,4,25.0,8
+Data Analyst,A/B testing basics,Analysis,3,18.0,9
+Data Analyst,Portfolio projects,Practice,5,40.0,10
+Data Scientist,Python for data science,Foundations,5,40.0,1
+Data Scientist,SQL,Foundations,4,25.0,2
+Data Scientist,Probability & statistics,Analysis,5,50.0,3
+Data Scientist,Exploratory data analysis,Analysis,5,25.0,4
+Data Scientist,Supervised learning,Machine Learning,5,45.0,5
+Data Scientist,Unsupervised learning,Machine Learning,4,25.0,6
+Data Scientist,Model evaluation,Machine Learning,5,20.0,7
+Data Scientist,Feature engineering,Machine Learning,4,25.0,8
+Data Scientist,ML experiment tracking,Practice,3,15.0,9
+Data Scientist,Stakeholder storytelling,Storytelling,4,15.0,10
+Data Engineer,SQL at scale,Foundations,5,30.0,1
+Data Engineer,Python scripting,Foundations,5,30.0,2
+Data Engineer,Data modeling,Foundations,5,35.0,3
+Data Engineer,ETL / ELT pipelines,Pipelines,5,45.0,4
+Data Engineer,Cloud data warehouses,Pipelines,5,35.0,5
+Data Engineer,Apache Spark basics,Pipelines,4,40.0,6
+Data Engineer,Orchestration (Airflow),Pipelines,4,25.0,7
+Data Engineer,Data quality & testing,Reliability,4,20.0,8
+Data Engineer,Linux & Git,Foundations,3,15.0,9
+AI Engineer,Python for ML,Foundations,5,30.0,1
+AI Engineer,Linear algebra intuition,Foundations,4,25.0,2
+AI Engineer,Classical ML,Machine Learning,4,35.0,3
+AI Engineer,Deep learning foundations,Machine Learning,5,45.0,4
+AI Engineer,NLP & transformers,Machine Learning,5,40.0,5
+AI Engineer,LLM application design,Applied AI,5,35.0,6
+AI Engineer,RAG & evaluation,Applied AI,5,30.0,7
+AI Engineer,MLOps & serving,Applied AI,4,30.0,8
+AI Engineer,Responsible AI,Applied AI,4,15.0,9
+Software Engineer,Programming fundamentals,Foundations,5,40.0,1
+Software Engineer,Git & collaboration,Foundations,5,12.0,2
+Software Engineer,Data structures,Foundations,5,40.0,3
+Software Engineer,Web or mobile basics,Building,5,40.0,4
+Software Engineer,Databases,Building,4,30.0,5
+Software Engineer,APIs & backend,Building,5,35.0,6
+Software Engineer,Testing,Reliability,4,20.0,7
+Software Engineer,System design intro,Building,3,25.0,8
+Cybersecurity Analyst,Networking basics,Foundations,5,30.0,1
+Cybersecurity Analyst,Operating systems,Foundations,5,25.0,2
+Cybersecurity Analyst,Security fundamentals,Security,5,30.0,3
+Cybersecurity Analyst,Threat detection,Security,5,35.0,4
+Cybersecurity Analyst,Identity & access,Security,4,20.0,5
+Cybersecurity Analyst,Incident response,Security,4,25.0,6
+Cybersecurity Analyst,Scripting for security,Security,3,20.0,7
+Machine Learning Engineer,Python & SQL,Foundations,5,25.0,1
+Machine Learning Engineer,ML algorithms,Machine Learning,5,45.0,2
+Machine Learning Engineer,Deep learning,Machine Learning,5,40.0,3
+Machine Learning Engineer,Feature stores & data,Pipelines,4,25.0,4
+Machine Learning Engineer,Model serving,MLOps,5,30.0,5
+Machine Learning Engineer,Monitoring models,MLOps,4,20.0,6
+Aerospace Engineer,Calculus & physics,Foundations,5,40.0,1
+Aerospace Engineer,Statics & dynamics,Foundations,5,35.0,2
+Aerospace Engineer,Thermodynamics,Core,5,30.0,3
+Aerospace Engineer,Fluid mechanics,Core,5,40.0,4
+Aerospace Engineer,Aerodynamics,Core,5,40.0,5
+Aerospace Engineer,CAD for aerospace,Tools,4,25.0,6
+Aerospace Engineer,MATLAB / Python,Tools,4,30.0,7
+Aerospace Engineer,Structures & materials,Core,4,30.0,8
+Aerospace Engineer,Systems engineering,Core,4,20.0,9
+Avionics Engineer,Circuit fundamentals,Foundations,5,30.0,1
+Avionics Engineer,Digital electronics,Foundations,5,30.0,2
+Avionics Engineer,Embedded C,Building,5,40.0,3
+Avionics Engineer,Control systems,Core,5,35.0,4
+Avionics Engineer,Communication systems,Core,4,30.0,5
+Avionics Engineer,DO-178 / safety awareness,Core,4,20.0,6
+Flight Test Engineer,Flight mechanics,Core,5,35.0,1
+Flight Test Engineer,Instrumentation,Tools,5,25.0,2
+Flight Test Engineer,Test planning,Core,5,30.0,3
+Flight Test Engineer,Data analysis,Analysis,5,30.0,4
+Flight Test Engineer,Safety of test,Core,5,20.0,5
+Propulsion Engineer,Thermodynamics,Core,5,35.0,1
+Propulsion Engineer,Gas dynamics,Core,5,40.0,2
+Propulsion Engineer,Combustion basics,Core,5,30.0,3
+Propulsion Engineer,Turbomachinery,Core,4,35.0,4
+Propulsion Engineer,Numerical methods,Tools,4,25.0,5
+Mission Operations Analyst,Orbital mechanics intro,Core,5,35.0,1
+Mission Operations Analyst,Telemetry & ops,Core,5,30.0,2
+Mission Operations Analyst,Python for ops data,Tools,4,25.0,3
+Mission Operations Analyst,Anomaly response,Core,4,20.0,4
+Business Analyst,Requirements gathering,Core,5,20.0,1
+Business Analyst,Process mapping,Core,5,20.0,2
+Business Analyst,Excel & SQL,Tools,5,30.0,3
+Business Analyst,Stakeholder management,Core,5,15.0,4
+Business Analyst,Agile delivery,Core,4,15.0,5
+Product Manager,Product discovery,Core,5,25.0,1
+Product Manager,Metrics & analytics,Analysis,5,25.0,2
+Product Manager,Roadmapping,Core,5,20.0,3
+Product Manager,User research basics,Core,4,20.0,4
+Product Manager,Communication & influence,Core,5,15.0,5
+Management Consultant,Structured problem solving,Core,5,25.0,1
+Management Consultant,Excel modeling,Tools,5,25.0,2
+Management Consultant,Slide storytelling,Storytelling,5,20.0,3
+Management Consultant,Industry research,Analysis,4,20.0,4
+Health Data Analyst,Healthcare data basics,Foundations,5,20.0,1
+Health Data Analyst,SQL,Foundations,5,30.0,2
+Health Data Analyst,Privacy & HIPAA awareness,Core,5,12.0,3
+Health Data Analyst,Statistics,Analysis,4,30.0,4
+Health Data Analyst,Dashboards,Storytelling,4,20.0,5
+Bioinformatics Analyst,Molecular biology intro,Foundations,5,25.0,1
+Bioinformatics Analyst,Python,Tools,5,30.0,2
+Bioinformatics Analyst,Genomic file formats,Core,5,20.0,3
+Bioinformatics Analyst,Statistics for omics,Analysis,5,30.0,4
+Clinical Informaticist,Clinical workflows,Core,5,25.0,1
+Clinical Informaticist,EHR concepts,Core,5,25.0,2
+Clinical Informaticist,Data quality,Analysis,4,20.0,3
+Mechanical Engineer,Statics,Foundations,5,25.0,1
+Mechanical Engineer,Solid mechanics,Core,5,30.0,2
+Mechanical Engineer,CAD,Tools,5,30.0,3
+Mechanical Engineer,Manufacturing processes,Core,4,20.0,4
+Mechanical Engineer,FEA intro,Tools,3,25.0,5
+Robotics Engineer,Mechanics,Foundations,5,25.0,1
+Robotics Engineer,Control theory,Core,5,35.0,2
+Robotics Engineer,ROS basics,Tools,5,35.0,3
+Robotics Engineer,Python / C++,Tools,5,30.0,4
+Robotics Engineer,Perception intro,Core,4,25.0,5
+CAD Design Engineer,CAD fundamentals,Tools,5,35.0,1
+CAD Design Engineer,GD&T,Core,5,25.0,2
+CAD Design Engineer,Design for manufacturing,Core,4,20.0,3
+UX Designer,User research,Core,5,25.0,1
+UX Designer,Wireframing,Core,5,20.0,2
+UX Designer,Usability testing,Core,5,20.0,3
+UX Designer,Visual hierarchy,Core,4,20.0,4
+Product Designer,Interaction design,Core,5,25.0,1
+Product Designer,Design systems,Core,5,25.0,2
+Product Designer,Prototyping,Tools,5,20.0,3
+Financial Analyst,Accounting basics,Foundations,5,25.0,1
+Financial Analyst,Excel modeling,Tools,5,30.0,2
+Financial Analyst,Financial statements,Core,5,25.0,3
+Financial Analyst,Valuation intro,Core,4,25.0,4
+Quantitative Analyst,Probability,Foundations,5,35.0,1
+Quantitative Analyst,Linear algebra,Foundations,5,30.0,2
+Quantitative Analyst,Python for finance,Tools,5,30.0,3
+Quantitative Analyst,Time series,Analysis,5,35.0,4
+Data Analyst (Finance),SQL,Foundations,5,30.0,1
+Data Analyst (Finance),Excel,Foundations,5,20.0,2
+Data Analyst (Finance),Financial metrics,Core,5,25.0,3
+Data Analyst (Finance),Visualization,Storytelling,4,20.0,4
+Statistician,Probability foundations,Foundations,5,35.0,1
+Statistician,Study design & sampling,Analysis,5,30.0,2
+Statistician,Statistical inference,Analysis,5,40.0,3
+Statistician,R or Python for statistics,Tools,4,35.0,4
+Statistician,Communicating uncertainty,Storytelling,4,20.0,5
+Operations Research Analyst,Linear algebra & optimization,Foundations,5,40.0,1
+Operations Research Analyst,Operations research models,Analysis,5,40.0,2
+Operations Research Analyst,Python optimization tools,Tools,4,30.0,3
+Operations Research Analyst,Simulation & sensitivity analysis,Analysis,4,30.0,4
+Operations Research Analyst,Decision communication,Storytelling,4,20.0,5
+Actuarial Analyst,Probability & statistics,Foundations,5,40.0,1
+Actuarial Analyst,Financial mathematics,Analysis,5,35.0,2
+Actuarial Analyst,Excel & data analysis,Tools,4,25.0,3
+Actuarial Analyst,Risk modeling,Analysis,5,35.0,4
+Actuarial Analyst,Insurance fundamentals,Core,4,25.0,5
+IT Support Specialist,Computer hardware basics,Foundations,5,20.0,1
+IT Support Specialist,Operating systems & troubleshooting,Core,5,35.0,2
+IT Support Specialist,Networking fundamentals,Core,4,25.0,3
+IT Support Specialist,Identity & account support,Core,4,20.0,4
+IT Support Specialist,Customer communication,Storytelling,5,15.0,5
+Network Engineer,TCP/IP networking,Foundations,5,40.0,1
+Network Engineer,Routing & switching,Core,5,40.0,2
+Network Engineer,Linux & network tools,Tools,4,30.0,3
+Network Engineer,Network security,Security,5,30.0,4
+Network Engineer,Monitoring & troubleshooting,Reliability,5,25.0,5
+Cloud Engineer,Linux & scripting,Foundations,5,30.0,1
+Cloud Engineer,Cloud platform fundamentals,Core,5,35.0,2
+Cloud Engineer,Infrastructure as code,Building,5,35.0,3
+Cloud Engineer,Cloud networking & security,Security,5,35.0,4
+Cloud Engineer,Containers & deployment,Reliability,4,30.0,5
+Environmental Scientist,Ecology & environmental systems,Foundations,5,30.0,1
+Environmental Scientist,Environmental sampling,Core,5,25.0,2
+Environmental Scientist,Environmental regulations,Core,4,25.0,3
+Environmental Scientist,Data analysis with R or Python,Tools,4,30.0,4
+Environmental Scientist,Scientific reporting,Storytelling,5,20.0,5
+GIS Analyst,Cartography & spatial data,Foundations,5,30.0,1
+GIS Analyst,QGIS or ArcGIS,Tools,5,35.0,2
+GIS Analyst,Coordinate systems & projections,Core,4,20.0,3
+GIS Analyst,Spatial analysis,Analysis,5,35.0,4
+GIS Analyst,Python for geospatial work,Tools,4,30.0,5
+Sustainability Analyst,Climate & sustainability concepts,Foundations,5,25.0,1
+Sustainability Analyst,Carbon accounting basics,Core,5,30.0,2
+Sustainability Analyst,Excel & data analysis,Tools,4,25.0,3
+Sustainability Analyst,Reporting frameworks,Core,4,25.0,4
+Sustainability Analyst,Impact communication,Storytelling,5,20.0,5
+Civil Engineer,Statics & mechanics,Foundations,5,35.0,1
+Civil Engineer,Civil materials & construction,Core,5,30.0,2
+Civil Engineer,CAD & civil design tools,Tools,4,35.0,3
+Civil Engineer,Surveying & site basics,Core,4,25.0,4
+Civil Engineer,Codes & safety,Core,5,25.0,5
+Structural Engineer,Structural analysis,Foundations,5,40.0,1
+Structural Engineer,Steel & concrete design,Core,5,40.0,2
+Structural Engineer,Structural software,Tools,4,35.0,3
+Structural Engineer,Building codes & loads,Core,5,30.0,4
+Structural Engineer,Design documentation,Storytelling,4,20.0,5
+Transportation Engineer,Transportation planning,Foundations,5,30.0,1
+Transportation Engineer,Traffic flow & safety analysis,Analysis,5,35.0,2
+Transportation Engineer,GIS for transportation,Tools,4,25.0,3
+Transportation Engineer,Highway design basics,Core,4,30.0,4
+Transportation Engineer,Public engagement & reporting,Storytelling,4,20.0,5
+Market Research Analyst,Research methods & sampling,Foundations,5,30.0,1
+Market Research Analyst,Survey design,Analysis,5,25.0,2
+Market Research Analyst,Excel & statistics,Tools,5,30.0,3
+Market Research Analyst,Customer segmentation,Analysis,4,25.0,4
+Market Research Analyst,Research storytelling,Storytelling,5,20.0,5
+Digital Marketing Analyst,Web analytics fundamentals,Foundations,5,25.0,1
+Digital Marketing Analyst,Campaign measurement,Analysis,5,30.0,2
+Digital Marketing Analyst,SEO & search metrics,Core,4,25.0,3
+Digital Marketing Analyst,SQL or spreadsheet analysis,Tools,4,30.0,4
+Digital Marketing Analyst,Experimentation & attribution,Analysis,4,30.0,5
+Marketing Manager,Marketing strategy,Foundations,5,30.0,1
+Marketing Manager,Customer & market research,Analysis,4,25.0,2
+Marketing Manager,Budget & campaign planning,Core,5,25.0,3
+Marketing Manager,Marketing analytics,Analysis,5,30.0,4
+Marketing Manager,Team leadership & communication,Storytelling,5,25.0,5
+Instructional Designer,Learning science foundations,Foundations,5,30.0,1
+Instructional Designer,Learning objectives & assessment,Core,5,25.0,2
+Instructional Designer,Course design & storyboarding,Building,5,35.0,3
+Instructional Designer,Digital learning tools,Tools,4,25.0,4
+Instructional Designer,Accessible learning design,Core,4,20.0,5
+Learning Analyst,Education data fundamentals,Foundations,5,25.0,1
+Learning Analyst,SQL & spreadsheet analysis,Tools,5,30.0,2
+Learning Analyst,Learning metrics & evaluation,Analysis,5,35.0,3
+Learning Analyst,Data visualization,Storytelling,4,25.0,4
+Learning Analyst,Privacy & responsible data use,Core,5,20.0,5
+Education Program Coordinator,Program planning,Core,5,25.0,1
+Education Program Coordinator,Scheduling & operations,Core,5,20.0,2
+Education Program Coordinator,Spreadsheet tracking,Tools,4,20.0,3
+Education Program Coordinator,Progress reporting,Storytelling,4,20.0,4
+Education Program Coordinator,Stakeholder communication,Core,5,20.0,5
+Malware Analyst,Cybersecurity,Foundations,3,20.0,1

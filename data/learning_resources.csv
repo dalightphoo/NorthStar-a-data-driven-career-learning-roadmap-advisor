@@ -1,0 +1,284 @@
+skill,title,source_type,url,level
+Excel & spreadsheets,Microsoft Excel help & learning,Docs,https://support.microsoft.com/excel,Beginner
+SQL,Mode SQL Tutorial,Course,https://mode.com/sql-tutorial/,Beginner
+SQL,PostgreSQL official tutorial,Docs,https://www.postgresql.org/docs/current/tutorial.html,Beginner
+Data cleaning,Pandas user guide: missing data,Docs,https://pandas.pydata.org/docs/user_guide/missing_data.html,Beginner
+Statistics for analysis,Seeing Theory,Interactive,https://seeing-theory.brown.edu/,Beginner
+Python (Pandas),10 minutes to pandas,Docs,https://pandas.pydata.org/docs/user_guide/10min.html,Beginner
+Python for data science,Python Data Science Handbook,Book,https://jakevdp.github.io/PythonDataScienceHandbook/,Intermediate
+Data visualization,Matplotlib cheatsheets,Docs,https://matplotlib.org/cheatsheets/,Beginner
+Dashboarding,Tableau Public resources,Course,https://public.tableau.com/app/learn/how-to-videos,Beginner
+A/B testing basics,Trustworthy Online Controlled Experiments (summary notes),Article,https://exp-platform.com/2019-08-trustworthy-online-controlled-experiments-book/,Intermediate
+Probability & statistics,Khan Academy Statistics,Course,https://www.khanacademy.org/math/statistics-probability,Beginner
+Supervised learning,scikit-learn supervised learning,Docs,https://scikit-learn.org/stable/supervised_learning.html,Intermediate
+Unsupervised learning,scikit-learn clustering,Docs,https://scikit-learn.org/stable/modules/clustering.html,Intermediate
+Model evaluation,scikit-learn model evaluation,Docs,https://scikit-learn.org/stable/modules/model_evaluation.html,Intermediate
+Deep learning foundations,Deep Learning Book (online),Book,https://www.deeplearningbook.org/,Advanced
+NLP & transformers,Hugging Face NLP course,Course,https://huggingface.co/learn/nlp-course,Intermediate
+LLM application design,OpenAI prompting guidance,Docs,https://platform.openai.com/docs/guides/prompt-engineering,Intermediate
+RAG & evaluation,RAG survey notes / Haystack tutorials,Course,https://haystack.deepset.ai/tutorials,Intermediate
+MLOps & serving,Made With ML MLOps,Course,https://madewithml.com/,Intermediate
+ETL / ELT pipelines,dbt learn,Course,https://docs.getdbt.com/docs/introduction,Intermediate
+Cloud data warehouses,BigQuery or Snowflake getting started,Docs,https://cloud.google.com/bigquery/docs,Intermediate
+Apache Spark basics,Spark SQL guide,Docs,https://spark.apache.org/docs/latest/sql-programming-guide.html,Intermediate
+Orchestration (Airflow),Airflow tutorial,Docs,https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html,Intermediate
+Programming fundamentals,CS50x,Course,https://cs50.harvard.edu/x/,Beginner
+Git & collaboration,Git handbook,Docs,https://docs.github.com/en/get-started/using-git,Beginner
+Data structures,VisuAlgo,Interactive,https://visualgo.net/,Beginner
+APIs & backend,FastAPI tutorial,Docs,https://fastapi.tiangolo.com/tutorial/,Beginner
+Networking basics,Cisco Networking Basics overview,Article,https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-computer-networking.html,Beginner
+Security fundamentals,NIST Cybersecurity Framework,Docs,https://www.nist.gov/cyberframework,Beginner
+Aerodynamics,NASA Beginner's Guide to Aerodynamics,Docs,https://www.grc.nasa.gov/www/k-12/airplane/bga.html,Beginner
+MATLAB / Python,NumPy fundamentals,Docs,https://numpy.org/doc/stable/user/absolute_beginners.html,Beginner
+CAD for aerospace,Onshape learning center,Course,https://learn.onshape.com/,Beginner
+Orbital mechanics intro,NASA Basics of Space Flight,Docs,https://science.nasa.gov/learn/basics-of-space-flight/,Beginner
+Requirements gathering,IIBA business analysis core,Article,https://www.iiba.org/business-analysis-framework/,Beginner
+Product discovery,Teresa Torres continuous discovery (talks/notes),Article,https://www.producttalk.org/continuous-discovery-habits/,Intermediate
+Healthcare data basics,HealthIT.gov data basics,Docs,https://www.healthit.gov/,Beginner
+Privacy & HIPAA awareness,HHS HIPAA summary,Docs,https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html,Beginner
+User research,NN/g UX research,Article,https://www.nngroup.com/articles/which-ux-research-methods/,Beginner
+Excel modeling,Corporate Finance Institute Excel,Course,https://corporatefinanceinstitute.com/resources/excel/,Beginner
+Financial statements,SEC Beginners' Guide to Financial Statements,Docs,https://www.sec.gov/reportspubs/investor-publications/beginners-guide-to-financial-statements,Beginner
+ROS basics,ROS 2 Tutorials,Docs,https://docs.ros.org/en/humble/Tutorials.html,Beginner
+Embedded C,C programming notes,Docs,https://en.cppreference.com/w/c,Beginner
+Control systems,Control Tutorials for MATLAB and Simulink,Course,https://ctms.engin.umich.edu/CTMS/,Intermediate
+Business communication,Plain language guidelines,Docs,https://www.plainlanguage.gov/,Beginner
+Stakeholder storytelling,Storytelling with Data community,Article,https://www.storytellingwithdata.com/,Beginner
+Linux & Git,OverTheWire Bandit (Linux practice),Interactive,https://overthewire.org/wargames/bandit/,Beginner
+Python scripting,Python official tutorial,Docs,https://docs.python.org/3/tutorial/,Beginner
+Data modeling,Database design intro,Article,https://www.postgresql.org/docs/current/ddl.html,Beginner
+Feature engineering,Google ML Crash Course,Course,https://developers.google.com/machine-learning/crash-course,Intermediate
+Classical ML,Google ML Crash Course,Course,https://developers.google.com/machine-learning/crash-course,Beginner
+Linear algebra intuition,3Blue1Brown Essence of Linear Algebra,Video,https://www.3blue1brown.com/topics/linear-algebra,Beginner
+Responsible AI,Google Responsible AI practices,Docs,https://ai.google/responsibility/responsible-ai-practices/,Beginner
+Testing,pytest documentation,Docs,https://docs.pytest.org/,Beginner
+System design intro,System Design Primer,Article,https://github.com/donnemartin/system-design-primer,Intermediate
+Identity & access,OWASP Authentication Cheat Sheet,Docs,https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html,Intermediate
+Incident response,CISA Incident Response,Docs,https://www.cisa.gov/incident-response,Beginner
+Threat detection,MITRE ATT&CK,Docs,https://attack.mitre.org/,Intermediate
+Calculus & physics,Khan Academy Physics,Course,https://www.khanacademy.org/science/physics,Beginner
+Fluid mechanics,NASA Fluid dynamics intro,Docs,https://www.grc.nasa.gov/www/k-12/airplane/index.html,Beginner
+Thermodynamics,MIT OCW Thermodynamics,Course,https://ocw.mit.edu/,Intermediate
+Structures & materials,NASA structures basics,Docs,https://www.nasa.gov/,Beginner
+Systems engineering,NASA Systems Engineering Handbook,Docs,https://www.nasa.gov/reference/systems-engineering-handbook/,Intermediate
+Digital electronics,All About Circuits,Course,https://www.allaboutcircuits.com/textbook/,Beginner
+Circuit fundamentals,All About Circuits DC,Course,https://www.allaboutcircuits.com/textbook/direct-current/,Beginner
+Communication systems,NASA communications,Docs,https://www.nasa.gov/,Beginner
+Instrumentation,NI measurement fundamentals,Article,https://www.ni.com/en/shop/data-acquisition.html,Beginner
+Test planning,FAA flight test overview,Docs,https://www.faa.gov/,Intermediate
+Gas dynamics,NASA compressible flow,Docs,https://www.grc.nasa.gov/www/k-12/airplane/compress.html,Intermediate
+Numerical methods,SciPy lecture notes,Docs,https://lectures.scientific-python.org/,Intermediate
+Telemetry & ops,NASA ops education,Docs,https://www.nasa.gov/,Beginner
+Anomaly response,Incident command basics,Article,https://www.ready.gov/,Beginner
+Process mapping,BPMN intro,Article,https://www.bpmn.org/,Beginner
+Agile delivery,Agile Alliance glossary,Docs,https://www.agilealliance.org/agile101/,Beginner
+Metrics & analytics,Amplitude analysis guides,Article,https://amplitude.com/blog,Beginner
+User research basics,NN/g research methods,Article,https://www.nngroup.com/,Beginner
+Communication & influence,Manager Tools basics,Article,https://www.manager-tools.com/,Beginner
+Structured problem solving,McKinsey problem solving materials (public talks),Article,https://www.mckinsey.com/,Intermediate
+Slide storytelling,Presentation Zen resources,Article,https://www.presentationzen.com/,Beginner
+Industry research,Google Dataset Search,Tool,https://datasetsearch.research.google.com/,Beginner
+Statistics for omics,Biostars tutorials,Forum,https://www.biostars.org/,Intermediate
+Genomic file formats,GATK dictionary,Docs,https://gatk.broadinstitute.org/,Intermediate
+Molecular biology intro,Khan Academy biology,Course,https://www.khanacademy.org/science/biology,Beginner
+Clinical workflows,AMIA informatics,Article,https://imia-medinfo.org/,Beginner
+EHR concepts,HealthIT EHR basics,Docs,https://www.healthit.gov/topic/health-it-and-health-information-exchange-basics,Beginner
+Statics,Engineering statics lectures,Course,https://ocw.mit.edu/,Beginner
+Solid mechanics,MIT OCW solid mechanics,Course,https://ocw.mit.edu/,Intermediate
+CAD,Onshape self-paced,Course,https://learn.onshape.com/,Beginner
+Manufacturing processes,MIT manufacturing,Course,https://ocw.mit.edu/,Beginner
+FEA intro,ANSYS student learning,Course,https://www.ansys.com/academic,Beginner
+Control theory,Control Tutorials CTMS,Course,https://ctms.engin.umich.edu/CTMS/,Intermediate
+Perception intro,OpenCV tutorials,Docs,https://docs.opencv.org/,Beginner
+GD&T,GD&T basics,Article,https://www.gdandtbasics.com/,Beginner
+Design for manufacturing,DFM overview,Article,https://www.manufacturingguide.com/,Beginner
+Wireframing,Figma learn,Course,https://help.figma.com/,Beginner
+Usability testing,NN/g usability testing,Article,https://www.nngroup.com/articles/usability-testing-101/,Beginner
+Visual hierarchy,Laws of UX,Article,https://lawsofux.com/,Beginner
+Interaction design,Interaction Design Foundation,Article,https://www.interaction-design.org/,Beginner
+Design systems,Material Design,Docs,https://m3.material.io/,Beginner
+Prototyping,Figma prototyping,Docs,https://help.figma.com/,Beginner
+Accounting basics,AccountingCoach,Course,https://www.accountingcoach.com/,Beginner
+Valuation intro,Aswath Damodaran online,Course,https://pages.stern.nyu.edu/~adamodar/,Intermediate
+Time series,statsmodels TSA,Docs,https://www.statsmodels.org/stable/tsa.html,Intermediate
+Financial metrics,Investopedia financial ratios,Article,https://www.investopedia.com/,Beginner
+Visualization,Data to Viz,Interactive,https://www.data-to-viz.com/,Beginner
+Exploratory data analysis,Pandas EDA patterns,Docs,https://pandas.pydata.org/docs/user_guide/visualization.html,Beginner
+Python for ML,scikit-learn getting started,Docs,https://scikit-learn.org/stable/getting_started.html,Beginner
+Model serving,BentoML or FastAPI serving guides,Docs,https://fastapi.tiangolo.com/,Intermediate
+Monitoring models,Evidently docs,Docs,https://docs.evidentlyai.com/,Intermediate
+DO-178 / safety awareness,FAA software assurance overview,Docs,https://www.faa.gov/,Advanced
+Flight mechanics,NASA flight dynamics,Docs,https://www.grc.nasa.gov/www/k-12/airplane/index.html,Intermediate
+Combustion basics,NASA propulsion intro,Docs,https://www.grc.nasa.gov/www/k-12/airplane/shortp.html,Intermediate
+Turbomachinery,NASA turbines,Docs,https://www.grc.nasa.gov/www/k-12/airplane/turbine.html,Intermediate
+Web or mobile basics,MDN Web Docs,Docs,https://developer.mozilla.org/,Beginner
+Databases,PostgreSQL tutorial,Docs,https://www.postgresql.org/docs/current/tutorial.html,Beginner
+Operating systems,OS concepts overview,Article,https://pages.cs.wisc.edu/~remzi/OSTEP/,Beginner
+Scripting for security,Python for cybersecurity practice,Docs,https://docs.python.org/3/tutorial/,Beginner
+Feature stores & data,Feast docs,Docs,https://docs.feast.dev/,Intermediate
+ML algorithms,scikit-learn user guide,Docs,https://scikit-learn.org/stable/user_guide.html,Intermediate
+Deep learning,PyTorch tutorials,Docs,https://pytorch.org/tutorials/,Intermediate
+Stakeholder management,NN/g stakeholders,Article,https://www.nngroup.com/,Beginner
+Roadmapping,Product roadmap guide,Article,https://www.productplan.com/learn/what-is-a-product-roadmap/,Beginner
+Excel,Excel practice files,Docs,https://support.microsoft.com/excel,Beginner
+Python,Python tutorial,Docs,https://docs.python.org/3/tutorial/,Beginner
+Statistics,Khan Academy AP Stats,Course,https://www.khanacademy.org/math/ap-statistics,Beginner
+Dashboards,Power BI learn,Course,https://learn.microsoft.com/power-bi/,Beginner
+Portfolio projects,Kaggle datasets,Tool,https://www.kaggle.com/datasets,Beginner
+Data quality,Great Expectations docs,Docs,https://docs.greatexpectations.io/,Intermediate
+Data quality & testing,Great Expectations intro,Docs,https://docs.greatexpectations.io/,Intermediate
+Linux,Linux Journey,Course,https://linuxjourney.com/,Beginner
+Git,Pro Git book,Book,https://git-scm.com/book/en/v2,Beginner
+Programming fundamentals,freeCodeCamp,Course,https://www.freecodecamp.org/learn,Beginner
+Probability,Khan Academy Probability,Course,https://www.khanacademy.org/math/statistics-probability,Beginner
+Linear algebra,Khan Academy Linear Algebra,Course,https://www.khanacademy.org/math/linear-algebra,Beginner
+Python for finance,Pandas time series,Docs,https://pandas.pydata.org/docs/user_guide/timeseries.html,Intermediate
+Accounting basics,Khan Academy Accounting,Course,https://www.khanacademy.org/economics-finance-domain,Beginner
+CAD fundamentals,Onshape fundamentals,Course,https://learn.onshape.com/,Beginner
+Mechanics,Khan Academy Forces,Course,https://www.khanacademy.org/science/physics,Beginner
+Python / C++,C++ tutorial,Docs,https://isocpp.org/,Beginner
+Healthcare data basics,CMS data,Tool,https://data.cms.gov/,Beginner
+Privacy & HIPAA awareness,OCR HIPAA,Docs,https://www.hhs.gov/hipaa,Beginner
+Molecular biology intro,NIH genetics primer,Docs,https://www.genome.gov/,Beginner
+Clinical workflows,AHIMA resources,Article,https://www.ahima.org/,Beginner
+EHR concepts,ONC EHR,Docs,https://www.healthit.gov/,Beginner
+Statics & dynamics,MIT OCW Dynamics,Course,https://ocw.mit.edu/,Intermediate
+Aerodynamics,NASA FoilSim notes,Interactive,https://www.grc.nasa.gov/www/k-12/airplane/foil2.html,Beginner
+Embedded C,Embedded Artistry,Article,https://embeddedartistry.com/,Intermediate
+Control systems,CTMS Introduction,Course,https://ctms.engin.umich.edu/CTMS/index.php?aux=Basics_Intro,Intermediate
+Product discovery,SVPG product notes,Article,https://www.svpg.com/,Intermediate
+Valuation intro,Damodaran online,Course,https://pages.stern.nyu.edu/~adamodar/,Advanced
+Time series,Forecasting: Principles and Practice,Book,https://otexts.com/fpp3/,Intermediate
+Interaction design,Laws of UX,Article,https://lawsofux.com/,Beginner
+Design systems,GOV.UK Design System,Docs,https://design-system.service.gov.uk/,Beginner
+Usability testing,MeasuringU,Article,https://measuringu.com/,Intermediate
+Wireframing,Balsamiq learn,Course,https://balsamiq.com/learn/,Beginner
+User research,NN/g,Article,https://www.nngroup.com/,Beginner
+Visual hierarchy,Material Design layout,Docs,https://m3.material.io/,Beginner
+Prototyping,Figma,Docs,https://help.figma.com/,Beginner
+Robotics Engineer,ROS,Docs,https://docs.ros.org/,Beginner
+FEA intro,SimScale tutorials,Course,https://www.simscale.com/tutorials/,Beginner
+Manufacturing processes,Make: manufacturing,Article,https://makezine.com/,Beginner
+Solid mechanics,Continuum mechanics intro,Course,https://ocw.mit.edu/,Advanced
+CAD,FreeCAD docs,Docs,https://wiki.freecad.org/,Beginner
+GD&T,ASME Y14.5 overview,Article,https://www.gdandtbasics.com/gdt-symbols/,Intermediate
+Design for manufacturing,Xometry DFM,Article,https://www.xometry.com/resources/,Beginner
+Statistics for omics,Galaxy training,Course,https://training.galaxyproject.org/,Intermediate
+Genomic file formats,SAM/BAM spec,Docs,https://samtools.github.io/hts-specs/,Advanced
+Bioinformatics Analyst,Biopython tutorial,Docs,https://biopython.org/wiki/Documentation,Intermediate
+Health Data Analyst,MIMIC overview (credentialed),Article,https://physionet.org/content/mimiciv/,Advanced
+Clinical Informaticist,AMIA,Article,https://imia-medinfo.org/wp/,Beginner
+Mission Operations Analyst,JPL education,Docs,https://www.jpl.nasa.gov/edu/,Beginner
+Flight Test Engineer,NASA Dryden history/test,Docs,https://www.nasa.gov/,Intermediate
+Avionics Engineer,NASA avionics,Docs,https://www.nasa.gov/,Intermediate
+Propulsion Engineer,NASA Glenn propulsion,Docs,https://www1.grc.nasa.gov/,Intermediate
+Aerospace Engineer,NASA Glenn education,Docs,https://www.grc.nasa.gov/www/k-12/,Beginner
+Cybersecurity Analyst,TryHackMe,Interactive,https://tryhackme.com/,Beginner
+Software Engineer,freeCodeCamp,Course,https://www.freecodecamp.org/,Beginner
+AI Engineer,fast.ai,Course,https://www.fast.ai/,Intermediate
+Machine Learning Engineer,Made With ML,Course,https://madewithml.com/,Intermediate
+Data Engineer,Data Engineering Zoomcamp,Course,https://github.com/DataTalksClub/data-engineering-zoomcamp,Intermediate
+Data Scientist,Kaggle Learn,Course,https://www.kaggle.com/learn,Beginner
+Data Analyst,Google Data Analytics (outline),Course,https://www.coursera.org/professional-certificates/google-data-analytics,Beginner
+Business Analyst,SQLBolt,Interactive,https://sqlbolt.com/,Beginner
+Product Manager,Reforge-style public essays,Article,https://www.lennysnewsletter.com/,Intermediate
+Management Consultant,Case interview examples,Article,https://www.caseinterview.com/,Intermediate
+Financial Analyst,Investopedia academy articles,Article,https://www.investopedia.com/,Beginner
+Quantitative Analyst,QuantLib Python cookbook notes,Docs,https://www.quantlib.org/,Advanced
+Data Analyst (Finance),Excel for finance,Course,https://corporatefinanceinstitute.com/,Beginner
+UX Designer,Figma,Course,https://help.figma.com/,Beginner
+Product Designer,Material 3,Docs,https://m3.material.io/,Beginner
+Mechanical Engineer,MIT OCW,Course,https://ocw.mit.edu/,Beginner
+Robotics Engineer,The Construct ROS,Course,https://www.theconstruct.ai/,Intermediate
+CAD Design Engineer,Onshape,Course,https://learn.onshape.com/,Beginner
+Health Data Analyst,CDC Wonder,Tool,https://wonder.cdc.gov/,Beginner
+Bioinformatics Analyst,NCBI,Tool,https://www.ncbi.nlm.nih.gov/,Beginner
+Clinical Informaticist,HL7 FHIR overview,Docs,https://www.hl7.org/fhir/overview.html,Intermediate
+Probability foundations,Khan Academy probability,Course,https://www.khanacademy.org/math/statistics-probability/probability-library,Beginner
+Study design & sampling,OpenIntro Statistics,Book,https://www.openintro.org/book/os/,Beginner
+Statistical inference,Seeing Theory: inference,Interactive,https://seeing-theory.brown.edu/,Beginner
+R or Python for statistics,R for Data Science,Book,https://r4ds.hadley.nz/,Beginner
+Communicating uncertainty,Data visualization checklist,Article,https://www.data-to-viz.com/,Beginner
+Linear algebra & optimization,MIT OpenCourseWare Linear Algebra,Course,https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/,Intermediate
+Operations research models,Operations Research tutorials,Course,https://www.coursera.org/learn/operations-research-modeling,Beginner
+Python optimization tools,SciPy optimize guide,Docs,https://docs.scipy.org/doc/scipy/tutorial/optimize.html,Intermediate
+Simulation & sensitivity analysis,SimPy documentation,Docs,https://simpy.readthedocs.io/en/latest/,Intermediate
+Decision communication,Operations research case studies,Article,https://www.informs.org/Explore/Operations-Research-Analytics,Beginner
+Financial mathematics,Khan Academy interest and loans,Course,https://www.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial,Beginner
+Excel & data analysis,Microsoft Excel help & learning,Docs,https://support.microsoft.com/excel,Beginner
+Risk modeling,Society of Actuaries education resources,Docs,https://www.soa.org/education/,Beginner
+Insurance fundamentals,Insurance Information Institute basics,Article,https://www.iii.org/article,Beginner
+Computer hardware basics,Cisco computer hardware basics,Course,https://www.netacad.com/courses/computer-hardware-basics,Beginner
+Operating systems & troubleshooting,Microsoft Windows troubleshooting,Docs,https://support.microsoft.com/windows,Beginner
+Networking fundamentals,Cisco Networking Academy,Course,https://www.netacad.com/courses/networking,Beginner
+Identity & account support,Microsoft identity fundamentals,Docs,https://learn.microsoft.com/en-us/entra/fundamentals/,Beginner
+Customer communication,Google technical support fundamentals,Course,https://www.coursera.org/learn/technical-support-fundamentals,Beginner
+TCP/IP networking,Cloudflare learning: TCP/IP,Article,https://www.cloudflare.com/learning/network-layer/what-is-tcp-ip/,Beginner
+Routing & switching,Cisco Packet Tracer resources,Tool,https://www.netacad.com/cisco-packet-tracer,Beginner
+Linux & network tools,Linux command line tutorial,Course,https://ubuntu.com/tutorials/command-line-for-beginners,Beginner
+Network security,CISA cybersecurity resources,Docs,https://www.cisa.gov/topics/cybersecurity-best-practices,Beginner
+Monitoring & troubleshooting,Wireshark getting started,Docs,https://www.wireshark.org/docs/,Intermediate
+Linux & scripting,The Missing Semester,Course,https://missing.csail.mit.edu/,Beginner
+Cloud platform fundamentals,AWS Skill Builder cloud essentials,Course,https://skillbuilder.aws/,Beginner
+Infrastructure as code,Terraform tutorials,Docs,https://developer.hashicorp.com/terraform/tutorials,Beginner
+Cloud networking & security,Google Cloud security foundations,Docs,https://cloud.google.com/architecture/framework/security,Intermediate
+Containers & deployment,Docker getting started,Docs,https://docs.docker.com/get-started/,Beginner
+Ecology & environmental systems,OpenStax Biology ecosystems,Book,https://openstax.org/details/books/biology-2e,Beginner
+Environmental sampling,US EPA monitoring resources,Docs,https://www.epa.gov/measurements-modeling,Beginner
+Environmental regulations,US EPA laws and regulations,Docs,https://www.epa.gov/laws-regulations,Beginner
+Data analysis with R or Python,Data Carpentry lessons,Course,https://datacarpentry.org/lessons/,Beginner
+Scientific reporting,USGS science communication resources,Docs,https://www.usgs.gov/products/science-support/science-quality-and-integrity,Beginner
+Cartography & spatial data,QGIS training manual,Docs,https://docs.qgis.org/latest/en/docs/training_manual/,Beginner
+QGIS or ArcGIS,QGIS documentation,Docs,https://docs.qgis.org/latest/en/docs/,Beginner
+Coordinate systems & projections,EPSG Geodetic Parameter Dataset,Docs,https://epsg.org/,Intermediate
+Spatial analysis,QGIS spatial analysis training,Docs,https://docs.qgis.org/latest/en/docs/training_manual/processing/index.html,Intermediate
+Python for geospatial work,GeoPandas getting started,Docs,https://geopandas.org/en/stable/getting_started.html,Beginner
+Climate & sustainability concepts,Our World in Data climate,Article,https://ourworldindata.org/climate-change,Beginner
+Carbon accounting basics,GHG Protocol standards,Docs,https://ghgprotocol.org/standards-guidance,Intermediate
+Reporting frameworks,GRI standards overview,Docs,https://www.globalreporting.org/standards/,Intermediate
+Impact communication,UN Sustainable Development Goals,Docs,https://sdgs.un.org/goals,Beginner
+Statics & mechanics,Engineering Statics Open Textbook,Book,https://engineeringstatics.org/,Beginner
+Civil materials & construction,Building Science Education,Course,https://www.buildingscience.com/,Beginner
+CAD & civil design tools,Autodesk Civil 3D tutorials,Course,https://www.autodesk.com/learn/ondemand/collection/civil-3d,Beginner
+Surveying & site basics,OpenStax surveying resources,Book,https://openstax.org/,Beginner
+Codes & safety,ASCE codes and standards,Docs,https://www.asce.org/publications-and-news/asce-7,Intermediate
+Structural analysis,MIT OpenCourseWare structural mechanics,Course,https://ocw.mit.edu/,Intermediate
+Steel & concrete design,American Institute of Steel Construction learning,Docs,https://www.aisc.org/education/,Intermediate
+Structural software,OpenSees documentation,Docs,https://opensees.github.io/OpenSeesDocumentation/,Intermediate
+Building codes & loads,FEMA building codes resources,Docs,https://www.fema.gov/emergency-managers/risk-management/building-science,Beginner
+Design documentation,National Institute of Building Sciences,Docs,https://www.nibs.org/,Beginner
+Transportation planning,FHWA transportation planning,Docs,https://www.fhwa.dot.gov/planning/,Beginner
+Traffic flow & safety analysis,FHWA traffic analysis tools,Docs,https://ops.fhwa.dot.gov/trafficanalysistools/,Intermediate
+GIS for transportation,US DOT GIS resources,Docs,https://www.transportation.gov/gis,Beginner
+Highway design basics,AASHTO resources,Docs,https://www.transportation.org/,Intermediate
+Public engagement & reporting,US DOT public involvement,Docs,https://www.transportation.gov/transportation-policy/transportation-planning/public-involvement,Beginner
+Research methods & sampling,Pew Research Center methods,Article,https://www.pewresearch.org/methods/,Beginner
+Survey design,Census survey design resources,Docs,https://www.census.gov/programs-surveys/surveyhelp.html,Beginner
+Excel & statistics,Khan Academy statistics,Course,https://www.khanacademy.org/math/statistics-probability,Beginner
+Customer segmentation,Google Analytics learning,Course,https://skillshop.withgoogle.com/,Beginner
+Research storytelling,Storytelling with Data,Article,https://www.storytellingwithdata.com/,Beginner
+Web analytics fundamentals,Google Analytics Skillshop,Course,https://skillshop.withgoogle.com/,Beginner
+Campaign measurement,Google Ads measurement guide,Docs,https://support.google.com/google-ads/answer/1722022,Beginner
+SEO & search metrics,Google Search Central SEO guide,Docs,https://developers.google.com/search/docs/fundamentals/seo-starter-guide,Beginner
+SQL or spreadsheet analysis,Mode SQL Tutorial,Course,https://mode.com/sql-tutorial/,Beginner
+Experimentation & attribution,Google Analytics attribution,Docs,https://support.google.com/analytics/answer/10596866,Intermediate
+Marketing strategy,OpenStax Principles of Marketing,Book,https://openstax.org/details/books/principles-marketing,Beginner
+Customer & market research,US Small Business Administration market research,Docs,https://www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis,Beginner
+Budget & campaign planning,Google Ads help center,Docs,https://support.google.com/google-ads/,Beginner
+Marketing analytics,Google Analytics learning,Course,https://skillshop.withgoogle.com/,Beginner
+Team leadership & communication,Harvard Business Review leadership,Article,https://hbr.org/topic/leadership,Intermediate
+Learning science foundations,Learning How to Learn,Course,https://www.coursera.org/learn/learning-how-to-learn,Beginner
+Learning objectives & assessment,Carnegie Mellon teaching resources,Docs,https://www.cmu.edu/teaching/,Beginner
+Course design & storyboarding,University of Central Florida instructional design,Docs,https://topr.online.ucf.edu/,Beginner
+Digital learning tools,Moodle educator documentation,Docs,https://docs.moodle.org/,Beginner
+Accessible learning design,CAST Universal Design for Learning,Docs,https://udlguidelines.cast.org/,Beginner
+Education data fundamentals,NCES data and statistics,Docs,https://nces.ed.gov/,Beginner
+SQL & spreadsheet analysis,SQLBolt,Interactive,https://sqlbolt.com/,Beginner
+Learning metrics & evaluation,What Works Clearinghouse,Docs,https://ies.ed.gov/ncee/wwc/,Intermediate
+Data visualization,Datawrapper academy,Course,https://academy.datawrapper.de/,Beginner
+Privacy & responsible data use,Federal Student Privacy resources,Docs,https://studentprivacy.ed.gov/,Beginner
+Program planning,Project Management Institute basics,Article,https://www.pmi.org/learning/library,Beginner
+Scheduling & operations,Smartsheet project planning guide,Article,https://www.smartsheet.com/content/project-scheduling,Beginner
+Spreadsheet tracking,Google Sheets training,Docs,https://support.google.com/a/users/answer/9282959,Beginner
+Progress reporting,PlainLanguage.gov guidelines,Docs,https://www.plainlanguage.gov/guidelines/,Beginner
+Stakeholder communication,Harvard Business Review communication,Article,https://hbr.org/topic/communication,Beginner

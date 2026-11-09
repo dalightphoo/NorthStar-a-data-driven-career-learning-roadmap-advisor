@@ -1,0 +1,53 @@
+career,title,description,skills,difficulty,estimated_hours
+Data Analyst,Retail sales dashboard,"Clean a messy sales CSV and build a dashboard of revenue, seasonality, and product ranking.",SQL|Python (Pandas)|Dashboarding,2,18
+Data Analyst,HR attrition analysis,Analyze why employees leave using statistics and clear executive slides.,Statistics for analysis|Business communication|Python (Pandas),3,20
+Data Analyst,A/B test readout,"Evaluate a product experiment, check significance, and recommend a ship/no-ship decision.",A/B testing basics|Statistics for analysis,3,12
+Data Scientist,House price model,Train and evaluate a regression model with honest validation and error analysis.,Supervised learning|Model evaluation|Feature engineering,3,22
+Data Scientist,Customer clustering,Segment customers and explain clusters in business language.,Unsupervised learning|Stakeholder storytelling,3,16
+Data Scientist,Churn prediction,Build a classification pipeline with a precision/recall tradeoff discussion.,Supervised learning|Model evaluation,4,24
+Data Engineer,Warehouse pipeline,Ingest CSV/API data into a modeled warehouse with tests.,ETL / ELT pipelines|Data modeling|Data quality & testing,4,28
+Data Engineer,Spark batch job,Transform a large dataset with Spark and document the job SLA.,Apache Spark basics|Python scripting,4,22
+AI Engineer,RAG study assistant,Build a retrieval Q&A helper over lecture notes with citation and evaluation.,RAG & evaluation|LLM application design,4,26
+AI Engineer,Mini LLM eval harness,Compare prompts and models on a tiny benchmark and report scores.,LLM application design|Responsible AI,3,16
+Software Engineer,REST API with tests,Create a small authenticated API and a simple client.,APIs & backend|Testing|Databases,3,24
+Software Engineer,Personal tracker app,Ship a CRUD app with Git history and a README.,Programming fundamentals|Git & collaboration,2,20
+Cybersecurity Analyst,Home lab detections,Set up logs and write detections for common attack patterns.,Threat detection|Networking basics,3,22
+Machine Learning Engineer,Model API,Serve a trained model with monitoring of input drift.,Model serving|Monitoring models,4,24
+Aerospace Engineer,Airfoil comparison,Compare two airfoils with plots of lift and drag using public data or simple models.,Aerodynamics|MATLAB / Python,3,20
+Aerospace Engineer,Structural sizing notebook,Estimate loads on a simple wing spar and document assumptions.,Structures & materials|Calculus & physics,4,18
+Avionics Engineer,Sensor readout prototype,Read a sensor on a microcontroller and log calibrated values.,Embedded C|Digital electronics,3,20
+Flight Test Engineer,Test card + analysis,Write a test card and analyze a simulated flight parameter for limits.,Test planning|Data analysis,3,16
+Propulsion Engineer,Nozzle performance calc,Compute ideal rocket nozzle performance and discuss losses.,Gas dynamics|Thermodynamics,4,18
+Mission Operations Analyst,Pass plan,Build a simple satellite pass and downlink plan from TLEs.,Orbital mechanics intro|Python for ops data,3,16
+Business Analyst,Process redesign brief,Map a broken process and propose a to-be workflow with metrics.,Process mapping|Requirements gathering,2,14
+Product Manager,PRD for a learning app,"Write a one-page PRD with user stories, metrics, and a rollout plan.",Product discovery|Metrics & analytics,3,14
+Management Consultant,Market entry memo,Structure a market-sizing and recommendation memo with exhibits.,Structured problem solving|Slide storytelling,3,16
+Health Data Analyst,Clinic wait-time dashboard,Analyze appointment data and recommend operational changes.,SQL|Dashboards|Privacy & HIPAA awareness,3,18
+Bioinformatics Analyst,FASTQ to counts mini-pipeline,Document a tiny RNA-seq style pipeline on a sample dataset.,Genomic file formats|Python,4,22
+Clinical Informaticist,Order-set review,Review a mock EHR order set for workflow risk and data quality.,Clinical workflows|EHR concepts,3,14
+Mechanical Engineer,Bracket redesign,CAD a load-bearing bracket and discuss manufacturing method.,CAD|Design for manufacturing,3,16
+Robotics Engineer,Line-following robot sim,Simulate a simple controller following a path.,Control theory|Python / C++,3,20
+CAD Design Engineer,Gearbox drawing pack,Produce models and drawings with GD&T callouts.,CAD fundamentals|GD&T,3,18
+UX Designer,Onboarding usability study,Test a prototype with 5 users and present findings.,User research|Usability testing,2,14
+Product Designer,Design system starter,Create components and a short prototype of a key flow.,Design systems|Prototyping,3,18
+Financial Analyst,Three-statement model,Build a simple three-statement model for a public company.,Excel modeling|Financial statements,3,20
+Quantitative Analyst,Momentum backtest,Backtest a simple strategy with transaction costs and a teardown.,Time series|Python for finance,4,24
+Data Analyst (Finance),FP&A variance pack,Explain budget vs actual with visuals finance partners can use.,Financial metrics|Visualization|Excel,2,14
+Statistician,Survey sampling simulation,"Simulate random samples, compare estimates with known population values, and explain uncertainty.",Probability foundations|Study design & sampling|Statistical inference,3,18
+Operations Research Analyst,Campus shuttle optimizer,"Model shuttle routes and schedules, compare alternatives, and explain trade-offs in travel time and fleet size.",Operations research models|Python optimization tools|Decision communication,3,22
+Actuarial Analyst,Insurance claim risk notebook,"Explore a public or synthetic claims dataset, estimate claim frequency, and document assumptions and uncertainty.",Risk modeling|Probability & statistics|R or Python for statistics,3,20
+IT Support Specialist,Help desk troubleshooting guide,"Create a clear troubleshooting guide for common login, software, and network issues, then test it with a classmate.",Operating systems & troubleshooting|Customer communication|Identity & account support,2,10
+Network Engineer,Small office network lab,"Design a segmented small-office network, configure a simulator, and document connectivity and security checks.",TCP/IP networking|Routing & switching|Network security,3,20
+Cloud Engineer,Deploy a monitored web service,"Deploy a small sample service with infrastructure as code, access controls, and a basic health dashboard.",Cloud platform fundamentals|Infrastructure as code|Monitoring & troubleshooting,4,26
+Environmental Scientist,Local air quality analysis,"Compare public air-quality readings across locations and seasons, chart patterns, and discuss data limitations.",Environmental sampling|Data analysis with R or Python|Scientific reporting,2,18
+GIS Analyst,Community access map,"Map public services and population locations, run a simple proximity analysis, and explain the map's limitations.",QGIS or ArcGIS|Spatial analysis|Cartography & spatial data,3,18
+Sustainability Analyst,Small business carbon inventory,"Estimate emissions for a clearly defined activity, document factors and assumptions, and propose measurable reductions.",Carbon accounting basics|Excel & data analysis|Impact communication,3,18
+Civil Engineer,Accessible pedestrian crossing concept,"Use a sample site plan to propose a safe pedestrian crossing and document constraints, materials, and design assumptions.",Statics & mechanics|CAD & civil design tools|Codes & safety,3,20
+Structural Engineer,Simple truss analysis,"Analyze a small truss under example loads, compare hand calculations with a structural tool, and explain assumptions.",Structural analysis|Building codes & loads|Design documentation,4,22
+Transportation Engineer,Safer school street study,"Analyze a public or simulated street segment, identify safety concerns, and compare practical improvement options.",Traffic flow & safety analysis|Transportation planning|Data visualization,3,18
+Market Research Analyst,Customer survey insight brief,"Design a short unbiased survey, summarize responses, and prepare evidence-backed audience insights.",Survey design|Research methods & sampling|Research storytelling,2,16
+Digital Marketing Analyst,Campaign performance dashboard,"Analyze a sample campaign dataset, define conversion metrics, and recommend one test to improve results.",Campaign measurement|Web analytics fundamentals|Data visualization,2,16
+Marketing Manager,Launch plan for a local service,"Create a customer-focused launch brief with a target audience, channels, budget assumptions, and success metrics.",Marketing strategy|Budget & campaign planning|Customer & market research,3,18
+Instructional Designer,One-lesson learning module,"Design a short accessible lesson with a measurable objective, practice activity, and learner feedback check.",Learning objectives & assessment|Course design & storyboarding|Accessible learning design,2,18
+Learning Analyst,Course completion analysis,"Analyze synthetic course participation data, identify where learners disengage, and suggest an ethical improvement to test.",Education data fundamentals|Learning metrics & evaluation|Data visualization,3,18
+Education Program Coordinator,Student workshop operations plan,"Plan a small learning workshop with a schedule, roles, registration tracker, and post-session progress report.",Program planning|Scheduling & operations|Progress reporting,2,12

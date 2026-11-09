@@ -1,0 +1,46 @@
+field,career,median_salary_usd,p25_salary,p75_salary,job_openings_index,growth_5y_pct,remote_share_pct,typical_education,difficulty,description
+Computer Science,Data Analyst,78000,62000,98000,88,23.0,62.0,Bachelor,2,"Turns raw data into decisions with SQL, spreadsheets, and visual stories."
+Computer Science,Data Scientist,126000,98000,165000,74,31.0,58.0,Master,4,Builds statistical and machine learning models to forecast and explain outcomes.
+Computer Science,Data Engineer,128000,102000,162000,79,28.0,55.0,Bachelor,4,"Designs reliable pipelines, warehouses, and data platforms at scale."
+Computer Science,AI Engineer,145000,118000,190000,81,37.0,52.0,Bachelor,5,Ships production machine learning and LLM systems with evaluation and safety.
+Computer Science,Software Engineer,120000,90000,160000,95,22.0,48.0,Bachelor,3,"Designs, builds, and maintains applications and services."
+Computer Science,Cybersecurity Analyst,102000,80000,130000,86,32.0,35.0,Bachelor,3,"Protects systems through monitoring, detection, and secure design."
+Computer Science,Machine Learning Engineer,148000,120000,185000,70,35.0,50.0,Master,5,"Productionizes models with MLOps, serving, and performance tuning."
+Aerospace,Aerospace Engineer,118000,90000,150000,61,8.0,18.0,Bachelor,4,"Designs aircraft, spacecraft, and related systems under strict physics constraints."
+Aerospace,Avionics Engineer,112000,88000,140000,54,10.0,12.0,Bachelor,4,"Builds electronic systems that navigate, communicate, and control flight."
+Aerospace,Flight Test Engineer,108000,86000,135000,42,7.0,5.0,Bachelor,4,Plans and analyzes flight tests to prove vehicle performance and safety.
+Aerospace,Propulsion Engineer,122000,95000,155000,48,9.0,10.0,Master,5,Designs engines and propulsion systems from air-breathing to rocket.
+Aerospace,Mission Operations Analyst,95000,76000,120000,39,11.0,28.0,Bachelor,3,"Plans missions, monitors telemetry, and keeps operations on timeline."
+Business,Business Analyst,85000,68000,108000,77,14.0,45.0,Bachelor,2,Bridges business goals and technical delivery with requirements and process.
+Business,Product Manager,138000,105000,175000,68,16.0,40.0,Bachelor,3,"Owns product outcomes: discovery, roadmap, and cross-team delivery."
+Business,Management Consultant,110000,82000,150000,60,12.0,20.0,Bachelor,3,Diagnoses organizational problems and recommends data-backed changes.
+Healthcare,Health Data Analyst,82000,65000,105000,72,25.0,50.0,Bachelor,2,Analyzes clinical and operations data to improve care quality.
+Healthcare,Bioinformatics Analyst,98000,78000,125000,44,18.0,30.0,Master,4,Works with genomic and lab data using statistics and scientific computing.
+Healthcare,Clinical Informaticist,105000,85000,132000,40,15.0,22.0,Master,3,Connects clinical workflow with health information systems.
+Mechanical Engineering,Mechanical Engineer,95000,76000,122000,73,7.0,15.0,Bachelor,3,"Designs mechanical systems, parts, and manufacturing processes."
+Mechanical Engineering,Robotics Engineer,118000,92000,148000,58,20.0,25.0,Bachelor,4,"Integrates mechanics, controls, and software into robotic systems."
+Mechanical Engineering,CAD Design Engineer,78000,62000,98000,65,6.0,22.0,Bachelor,2,Creates precise 3D models and drawings for production.
+Design & Creative,UX Designer,92000,72000,120000,66,15.0,55.0,Bachelor,2,Researches users and designs usable product experiences.
+Design & Creative,Product Designer,108000,85000,140000,52,14.0,50.0,Bachelor,3,Owns visual and interaction design from concept through shipping.
+Finance,Financial Analyst,86000,68000,112000,70,9.0,30.0,Bachelor,2,"Models company performance, risk, and investment decisions."
+Finance,Quantitative Analyst,155000,120000,200000,36,12.0,35.0,Master,5,Applies mathematics and programming to markets and risk.
+Finance,Data Analyst (Finance),90000,72000,115000,69,18.0,48.0,Bachelor,2,"Analyzes financial operations, reporting, and risk datasets."
+Mathematics & Statistics,Statistician,98000,76000,126000,55,12.0,48.0,Master,4,Designs studies and applies statistical methods to interpret data and quantify uncertainty.
+Mathematics & Statistics,Operations Research Analyst,91000,70000,118000,62,23.0,52.0,Bachelor,4,"Uses optimization, simulation, and quantitative models to improve complex decisions."
+Mathematics & Statistics,Actuarial Analyst,105000,80000,138000,49,22.0,44.0,Bachelor,4,Uses probability and financial models to measure and manage insurance and business risk.
+Information Technology,IT Support Specialist,62000,48000,82000,83,6.0,18.0,Associate,2,"Troubleshoots devices, software, and accounts and helps people use technology reliably."
+Information Technology,Network Engineer,105000,80000,138000,66,13.0,22.0,Bachelor,4,"Designs, configures, and maintains secure computer networks and connectivity."
+Information Technology,Cloud Engineer,132000,100000,174000,78,25.0,48.0,Bachelor,4,"Builds and operates cloud infrastructure with attention to security, reliability, and cost."
+Environmental Science,Environmental Scientist,82000,62000,108000,51,7.0,24.0,Bachelor,3,Studies environmental conditions and uses evidence to assess risks and solutions.
+Environmental Science,GIS Analyst,79000,60000,104000,58,12.0,35.0,Bachelor,3,"Uses geographic information systems to map, analyze, and communicate spatial patterns."
+Environmental Science,Sustainability Analyst,85000,65000,112000,56,15.0,48.0,Bachelor,3,Measures environmental impact and helps organizations plan practical sustainability improvements.
+Civil Engineering,Civil Engineer,99000,76000,130000,75,6.0,12.0,Bachelor,4,"Plans and designs infrastructure such as roads, water systems, and public facilities."
+Civil Engineering,Structural Engineer,105000,80000,140000,57,6.0,15.0,Bachelor,5,Analyzes and designs safe building and infrastructure structures under loads.
+Civil Engineering,Transportation Engineer,101000,77000,134000,61,7.0,18.0,Bachelor,4,"Plans and improves transport systems using engineering, safety, and mobility data."
+Marketing,Market Research Analyst,79000,60000,105000,68,8.0,58.0,Bachelor,2,Studies customers and markets and turns survey and behavioral data into decisions.
+Marketing,Digital Marketing Analyst,82000,62000,110000,71,10.0,68.0,Bachelor,3,Measures digital campaigns and web behavior to improve audience reach and outcomes.
+Marketing,Marketing Manager,156000,112000,210000,59,8.0,55.0,Bachelor,4,"Sets marketing strategy and coordinates teams, budgets, research, and campaign performance."
+Education,Instructional Designer,89000,68000,118000,52,4.0,62.0,Bachelor,3,"Designs learning experiences, materials, and assessments around learner needs."
+Education,Learning Analyst,81000,62000,108000,47,12.0,58.0,Bachelor,3,Analyzes learning participation and outcomes to help improve courses and programs.
+Education,Education Program Coordinator,69000,52000,90000,64,5.0,30.0,Bachelor,2,"Coordinates education programs, schedules, communication, and progress reporting."
+Information Technology,Malware Analyst,1125000,281250,2560000,55,60.0,45.0,Bachelor,4,Dissects complex malicious software to understand how it operates and how to block it.

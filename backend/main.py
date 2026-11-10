@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
-from backend.config import UPLOAD_DIR
+from backend.config import SEED_DEMO_USERS, UPLOAD_DIR
 from backend.db import Base, engine, SessionLocal
 from backend.routers import admin, advisor, auth, catalog, chat, compare, friends, roadmaps, users
 from backend.seed import ensure_admin_user, seed_catalog, seed_demo_users
@@ -61,7 +61,8 @@ def startup():
     db = SessionLocal()
     try:
         seed_catalog(db)
-        seed_demo_users(db)
+        if SEED_DEMO_USERS:
+            seed_demo_users(db)
         ensure_admin_user(db)
         ensure_initial_version(db)
     finally:

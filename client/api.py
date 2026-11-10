@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 
 import httpx
@@ -8,7 +9,7 @@ import httpx
 ROOT = Path(__file__).resolve().parent.parent
 SESSION_FILE = ROOT / ".session.json"
 SESSION_KEY = "northstar.session"
-BASE = "http://127.0.0.1:8000"
+API_BASE_URL = os.getenv("NORTHSTAR_API_URL", "http://127.0.0.1:8000").rstrip("/")
 
 
 class ApiError(Exception):
@@ -67,7 +68,7 @@ class Api:
 
     def _send(self, method: str, path: str, **kwargs) -> httpx.Response:
         try:
-            with httpx.Client(base_url=BASE, timeout=60) as client:
+            with httpx.Client(base_url=API_BASE_URL, timeout=60) as client:
                 return client.request(method, path, headers=self._headers(), **kwargs)
         except httpx.ConnectError as exc:
             raise ApiError("Cannot reach the NorthStar server. Start the backend first.") from exc
@@ -91,7 +92,7 @@ class Api:
         if not self.refresh_token:
             raise ApiError("Your saved login has expired. Please log in again.", 401)
         try:
-            with httpx.Client(base_url=BASE, timeout=60) as client:
+            with httpx.Client(base_url=API_BASE_URL, timeout=60) as client:
                 res = client.post(
                     "/auth/refresh",
                     json={"refresh_token": self.refresh_token},

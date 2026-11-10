@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import DeclarativeBase, sessionmaker
 
-from backend.config import DATABASE_URL, ROOT
+from backend.config import DATABASE_URL, NORTHSTAR_ENV, ROOT
 
 def _make_engine(url: str):
     connect_args = {"check_same_thread": False} if url.startswith("sqlite") else {}
@@ -19,7 +19,11 @@ def _reachable(url: str) -> bool:
 
 
 SQLITE_URL = f"sqlite:///{(ROOT / 'northstar.db').as_posix()}"
-ACTIVE_URL = DATABASE_URL if _reachable(DATABASE_URL) else SQLITE_URL
+ACTIVE_URL = (
+    DATABASE_URL
+    if NORTHSTAR_ENV == "production" or _reachable(DATABASE_URL)
+    else SQLITE_URL
+)
 
 engine = _make_engine(ACTIVE_URL)
 SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)

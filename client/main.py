@@ -7,7 +7,7 @@ import time
 
 import flet as ft
 
-from client.api import Api, ApiError
+from client.api import API_BASE_URL, Api, ApiError
 from client.theme import DARK, LIGHT
 
 LEVELS = ["High School", "Bachelor", "Master", "PhD", "College", "Bootcamp", "Other"]
@@ -2124,7 +2124,7 @@ class NorthStarApp:
             content=ft.Text((user.get("username") or "?")[:1].upper()),
         )
         if user.get("profile_photo"):
-            photo = ft.CircleAvatar(radius=36, foreground_image_src="http://127.0.0.1:8000" + user["profile_photo"])
+            photo = ft.CircleAvatar(radius=36, foreground_image_src=API_BASE_URL + user["profile_photo"])
         edu_box = ft.Column()
         exp_box = ft.Column()
         edu_state: list[dict] = []

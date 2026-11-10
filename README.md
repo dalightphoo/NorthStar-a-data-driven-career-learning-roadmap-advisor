@@ -83,6 +83,12 @@ python run_app.py
 
 Register an account to begin. Education is required; career experience may be left empty for new graduates. Demo accounts are also seeded: `maya`, `kenji`, `aisha`, and `omar`, each with the development password `NorthStar123`. Do not use demo credentials outside local development.
 
+### Deploy the backend with Neon and Render
+
+The `render.yaml` Blueprint configures a free Render web service for the `main` branch. Create a Neon PostgreSQL database first, then create the Render Blueprint from this repository. Add Neon’s PostgreSQL connection string as the Render service's `DATABASE_URL` environment variable; keep it private. Render generates `SECRET_KEY` from the Blueprint. The production backend requires both settings and does not fall back to SQLite. Demo accounts are disabled in production, and new accounts can register normally.
+
+The Android APK must use the deployed backend URL rather than `127.0.0.1`. Set `NORTHSTAR_API_URL` to the Render HTTPS URL when running the client locally. For an APK, set that URL as the client’s default in `client/api.py` and rebuild the APK. Render's free service may sleep when idle, and its local filesystem is not persistent; profile-photo uploads may be lost after restarts or redeploys.
+
 ## Career data and analysis
 
 NorthStar uses curated CSV datasets in `data/` for fields, careers, skills, projects, learning resources, and historical/estimated job-market information. The administrator dashboard can update the supported datasets; updates are versioned and generate in-app notifications. Existing database installations receive newly added career records on startup.

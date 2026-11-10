@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: northstar-api
+    runtime: python
+    plan: free
+    branch: main
+    buildCommand: pip install -r requirements.txt
+    startCommand: python run_server.py
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.3
+      - key: NORTHSTAR_ENV
+        value: production
+      - key: SEED_DEMO_USERS
+        value: "false"
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_URL
+        sync: false

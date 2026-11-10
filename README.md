@@ -2,7 +2,7 @@
 
 NorthStar is a data-driven career and learning roadmap advisor for graduates and career changers. It includes a Python/Flet client, a FastAPI backend, curated career and learning datasets, career-comparison analysis, and an optional live job-market data integration.
 
-The client has responsive layouts and safe-area handling, but Android packaging and release are not completed yet.
+The client has responsive layouts and safe-area handling. An Android APK has been built and uses the deployed NorthStar API.
 
 ## What NorthStar does
 
@@ -21,7 +21,7 @@ The client has responsive layouts and safe-area handling, but Android packaging 
 - **Flet** builds the client interface in `client/`. Its screens are written in Python.
 - **FastAPI** provides the HTTP API in `backend/`; the Flet client calls it for login, roadmaps, career comparisons, chat, and other features.
 - **SQLAlchemy** manages database connections and application records. The project includes the PostgreSQL driver `psycopg2-binary`.
-- **PostgreSQL** stores application data when the configured database is reachable. The app falls back to a local SQLite database if it cannot connect to the configured database.
+- **PostgreSQL** stores application data in production and when configured for local development. Local development can fall back to SQLite if PostgreSQL is unavailable; production requires PostgreSQL.
 - **Pandas** loads and works with the CSV career, skill, project, resource, and market datasets.
 - **NumPy** calculates comparison scores and supports roadmap scheduling calculations.
 - **Matplotlib** creates the career-comparison chart.
@@ -65,7 +65,7 @@ python -m pip install -r requirements.txt
 
 The default `docker-compose.yml` credentials are intended for local development. To use that database, set `DATABASE_URL` in the project-root `.env` to a PostgreSQL connection URL matching the Compose credentials. Keep `.env` private and never commit real passwords or API keys.
 
-If PostgreSQL is not configured or is unavailable when the backend starts, NorthStar selects `northstar.db` (SQLite) in the project directory instead. The database choice is made at startup.
+For local development, if PostgreSQL is not configured or is unavailable when the backend starts, NorthStar selects `northstar.db` (SQLite) in the project directory instead. Production requires the configured PostgreSQL database and does not fall back to SQLite.
 
 ### Start the API and client
 
@@ -85,9 +85,9 @@ Register an account to begin. Education is required; career experience may be le
 
 ### Deploy the backend with Neon and Render
 
-The `render.yaml` Blueprint configures a free Render web service for the `main` branch. Create a Neon PostgreSQL database first, then create the Render Blueprint from this repository. Add Neon’s PostgreSQL connection string as the Render service's `DATABASE_URL` environment variable; keep it private. Render generates `SECRET_KEY` from the Blueprint. The production backend requires both settings and does not fall back to SQLite. Demo accounts are disabled in production, and new accounts can register normally.
+NorthStar's backend is deployed on Render and uses PostgreSQL hosted by Neon. The `render.yaml` Blueprint describes the Render web service. Render is configured to deploy changes pushed to the `main` branch automatically. Keep `DATABASE_URL`, `SECRET_KEY`, and any admin credentials in Render's environment settings; never commit them to the repository. To provision the administrator account, configure both `NORTHSTAR_ADMIN_USERNAME` and `NORTHSTAR_ADMIN_PASSWORD` in Render. Demo accounts are disabled in production, and new accounts can register normally.
 
-The Android client defaults to the deployed Render HTTPS URL. Set `NORTHSTAR_API_URL=http://127.0.0.1:8000` when running the client against a local backend. Render's free service may sleep when idle, and its local filesystem is not persistent; profile-photo uploads may be lost after restarts or redeploys.
+The Android APK uses the deployed Render HTTPS API. Changing backend code does not require rebuilding the APK; changes to the client app do. For local development, set `NORTHSTAR_API_URL=http://127.0.0.1:8000` to use a local backend. Render's free service may sleep when idle, and its local filesystem is not persistent; profile-photo uploads may be lost after restarts or redeploys.
 
 ## Career data and analysis
 

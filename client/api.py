@@ -9,7 +9,9 @@ import httpx
 ROOT = Path(__file__).resolve().parent.parent
 SESSION_FILE = ROOT / ".session.json"
 SESSION_KEY = "northstar.session"
-API_BASE_URL = os.getenv("NORTHSTAR_API_URL", "http://127.0.0.1:8000").rstrip("/")
+API_BASE_URL = os.getenv(
+    "NORTHSTAR_API_URL", "https://northstar-api-wmkj.onrender.com"
+).rstrip("/")
 
 
 class ApiError(Exception):
@@ -127,7 +129,7 @@ class Api:
         error = None
         if self.refresh_token:
             try:
-                with httpx.Client(base_url=BASE, timeout=10) as client:
+                with httpx.Client(base_url=API_BASE_URL, timeout=10) as client:
                     res = client.post(
                         "/auth/logout",
                         json={"refresh_token": self.refresh_token},
